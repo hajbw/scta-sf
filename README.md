@@ -16,7 +16,7 @@ Few-shot image classification is a challenging problem in computer vision, aimin
 
 ## Setup
 
-create a Python environment with the following demendencies:
+create a Python environment with the following dependencies:
 
 ```shell
 
